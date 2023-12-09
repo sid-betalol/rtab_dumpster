@@ -1,5 +1,4 @@
 # ROS rtab_dumpster package
-Author: Roberto Zegers R.
 
 ## Abstract
 The package contains a URDF model of a differential drive robot equipped with an RGB-D camera.
